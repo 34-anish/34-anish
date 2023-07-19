@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Manandhar</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Anish Manandhar</h1>
 <img src ="./Anish.png"></img>
 <i> Deeply passionate about machine learning and deep learning research, with a strong background in mathematics and computer science, I am enthusiastic about exploring the potential of these cutting-edge technologies to solve complex problems and drive innovation. My research interests lie in developing novel algorithms and architectures for improving the performance and efficiency of machine learning models, particularly in the areas of image recognition and data analysis. I am dedicated to staying up-to-date with the latest advancements in the field, actively participating in conferences and workshops, and collaborating with fellow researchers to push the boundaries of AI.</i>
 
