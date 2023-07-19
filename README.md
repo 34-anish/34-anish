@@ -2,7 +2,7 @@
 <h3 align="center">Deeply passionate about machine learning and deep learning research, with a strong background in mathematics and computer science, I am enthusiastic about exploring the potential of these cutting-edge technologies to solve complex problems and drive innovation. My research interests lie in developing novel algorithms and architectures for improving the performance and efficiency of machine learning models, particularly in the areas of image recognition and data analysis. I am dedicated to staying up-to-date with the latest advancements in the field, actively participating in conferences and workshops, and collaborating with fellow researchers to push the boundaries of AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=34-anish&label=Profile%20views&color=0e75b6&style=flat" alt="34-anish" /> </p>
-
+<img src ="./Anish.png"></img>
 - 🔭 I’m currently researching on **Computer-Aided Diagnosis**
 
 - 🌱 I’m currently learning **Deep Learning & Computer Vision**
