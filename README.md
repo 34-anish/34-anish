@@ -3,23 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=34-anish&label=Profile%20views&color=0e75b6&style=flat" alt="34-anish" /> </p>
 
-- 🔭 I’m currently researching on **Computer Aided Diagnosis**
+- 🔭 I’m currently researching on **Computer-Aided Diagnosis**
 
 - 🌱 I’m currently learning **Deep Learning & Computer Vision**
 
 - 💬 Ask me about **Python, ML & DL**
 
 - 📫 How to reach me **luckyanish47@gmail.com**
-Deeply passionate about machine learning and deep learning research, with a strong background in mathematics and computer
-science, I am enthusiastic about exploring the potential of these cutting-edge technologies to solve complex problems and drive
-innovation. My research interests lie in developing novel algorithms and architectures for improving the performance and efficiency
-of machine learning models, particularly in the areas of image recognition and data analysis. I am dedicated to staying up-to-date
-with the latest advancements in the field, actively participating in conferences and workshops, and collaborating with fellow
-researchers to push the boundaries of AI.
-[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=34-anish)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sleepdog-69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepdog-69" height="30" width="40" /></a>
+<a href="https://twitter.com/sleepdog_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepdog_69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anish-manandhar-815209191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-manandhar-815209191" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,10 +25,3 @@ researchers to push the boundaries of AI.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=34-anish&show_icons=true&locale=en" alt="34-anish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=34-anish&" alt="34-anish" /></p>
-
-
-
-<!---
-34-anish/34-anish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
